@@ -4,6 +4,6 @@
 - 💞️ I’m looking for an inernship or my first job 
 - 📫 How to reach me Email: upeshkhairnar03@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can Play Guitar lil bit.And i am a Gymrat  
+- ⚡ Fun fact: I can Play Guitar lil bit. And i am a Gymrat  
 
 
