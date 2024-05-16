@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @upeshKnr
 - 👀 I’m interested in mern stack
 - 🌱 I’m currently learning BCA 
-- 💞️ I’m looking for an inernship 
+- 💞️ I’m looking for an inernship or my first job 
 - 📫 How to reach me Email: upeshkhairnar03@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can Play Guitar lil bit.And i am a Gymrat  
 
-<!---
-upeshKnr/upeshKnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
