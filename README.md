@@ -19,8 +19,8 @@ I love turning raw data into impactful insights and building ML models that solv
 
 ## 📌 Featured Projects
 
-- 🍽️ Restaurant Data Analysis – SQL Portfolio Project
-   Built end-to-end SQL solution to analyze restaurant data for a food delivery platform  
+- 🍽️ **Restaurant Data Analysis – SQL Portfolio Project**                                                                                                                               
+  Built end-to-end SQL solution to analyze restaurant data for a food delivery platform.  
 
 - 🧠 **Customer Churn Analysis**  
   Used EDA and ML models to predict customer attrition and identify key business risks.
